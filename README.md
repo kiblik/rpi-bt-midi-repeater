@@ -170,3 +170,18 @@ sudo systemctl start raveloxmidi_hw2.service
 sudo systemctl enable raveloxmidi_hw3.service
 sudo systemctl start raveloxmidi_hw3.service
 ```
+
+## Set Network sessions
+
+Add hosts:
+> Name: hw2 \
+> Host: 192.168.120.1 \
+> Port: 5004
+
+![hw2](images/hw2.png)
+
+> Name: hw3 \
+> Host: 192.168.120.1 \
+> Port: 5007
+
+![hw3](images/hw3.png)
